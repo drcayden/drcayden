@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drcayden
 - 👀 I’m interested in ... Computer Science!
 - 🌱 I’m currently learning ... Learning how to use git and github.
-- 💞️ I’m looking to collaborate on ... Nothing. Not until I learn how to use git and github.
+- 💞️ I’m looking to collaborate on ... Nothing.
 - 📫 How to reach me ... Nothing.
 
 <!---
