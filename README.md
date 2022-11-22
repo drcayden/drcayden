@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drcayden
 - 👀 I’m interested in ... Computer Science!
 - 🌱 I’m currently learning ... Bootstrap and fullstack!
-- 💞️ I’m looking to collaborate on ... Nonething currently!
+- 💞️ I’m looking to collaborate on ... Nothing currently!
 - 📫 How to reach me ... NOPE1
 
 <!---
